@@ -1,4 +1,4 @@
-#version-properties-maven-plugin-1
+#version-properties-maven-plugin
 [![Build Status][build-status-image]][build-status]
 
 [build-status-image]: https://travis-ci.org/kaazing/version-properties-maven-plugin.svg?branch=develop
