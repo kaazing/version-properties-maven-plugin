@@ -3,6 +3,11 @@ This product depends on classworlds 1.1-alpha-2
 	License:	http://classworlds.codehaus.org/license.html (Classworlds License)
 	Homepage:	http://classworlds.codehaus.org/
 
+This product depends on Kaazing Corporation License 2.16
+
+	License:	http://www.apache.org/licenses/LICENSE-2.0.txt (The Apache Software License, Version 2.0)
+	Homepage:	https://github.com/kaazing/community
+
 This product depends on JUnit 3.8
 
 	License:	http://www.opensource.org/licenses/cpl1.0.txt (Common Public License Version 1.0)
